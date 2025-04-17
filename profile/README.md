@@ -26,8 +26,9 @@
   - Free-Version für Kleinstumfragen und Einführung in die Software
   - Premium-Version für größere private Nutzung
 
-## 🛠 Tech‑Stack (Beispiel)
+## 🛠 Tech‑Stack
 - **Frontend**: AngularJS 
 - **Backend**: Spring Boot Java  
 - **KI/ML**: Self-hosted Deepseek 
 - **Datenbank**: PostgreSQL
+- **Hosting**: Docker-Stack (Docker-Compose) in VPS-Umgebung
